@@ -36,7 +36,6 @@ JOIN
     States ON Clients.uf = States.code
 WHERE 
     States.code = 'SP';
-
 ~~~
 
 > Questão 5:
