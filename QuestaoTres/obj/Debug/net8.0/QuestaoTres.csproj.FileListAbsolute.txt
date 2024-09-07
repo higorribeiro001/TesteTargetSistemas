@@ -1,0 +1,14 @@
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\bin\Debug\net8.0\QuestaoTres.exe
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\bin\Debug\net8.0\QuestaoTres.deps.json
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\bin\Debug\net8.0\QuestaoTres.runtimeconfig.json
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\bin\Debug\net8.0\QuestaoTres.dll
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\bin\Debug\net8.0\QuestaoTres.pdb
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\obj\Debug\net8.0\QuestaoTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\obj\Debug\net8.0\QuestaoTres.AssemblyInfoInputs.cache
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\obj\Debug\net8.0\QuestaoTres.AssemblyInfo.cs
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\obj\Debug\net8.0\QuestaoTres.csproj.CoreCompileInputs.cache
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\obj\Debug\net8.0\QuestaoTres.dll
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\obj\Debug\net8.0\refint\QuestaoTres.dll
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\obj\Debug\net8.0\QuestaoTres.pdb
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\obj\Debug\net8.0\QuestaoTres.genruntimeconfig.cache
+C:\Users\Higor\Documents\curso de C#\projetos\MinhaSolucao\QuestaoTres\obj\Debug\net8.0\ref\QuestaoTres.dll
