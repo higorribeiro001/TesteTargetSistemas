@@ -12,7 +12,7 @@
 ### f) 2,10, 12, 16, 17, 18, 19, 200
 
 > Questão 4:
-### Link para visualizar o Diagrama ER: https://lucid.app/lucidchart/9acb3171-3ef7-44cd-bbd9-c6d4b9bea7eb/edit?invitationId=inv_e3c8f68f-7c46-46d7-a05f-3a9ab573f121&page=0_0#
+### Link para visualizar o Diagrama ER: [https://lucid.app/lucidchart/9acb3171-3ef7-44cd-bbd9-c6d4b9bea7eb/edit?invitationId=inv_e3c8f68f-7c46-46d7-a05f-3a9ab573f121&page=0_0#](https://lucid.app/lucidchart/9acb3171-3ef7-44cd-bbd9-c6d4b9bea7eb/edit?viewport_loc=-593%2C-122%2C3034%2C1471%2C0_0&invitationId=inv_e3c8f68f-7c46-46d7-a05f-3a9ab573f121)
 
 > Questão 5:
 ### ponto de referência é Ribeirão Preto
