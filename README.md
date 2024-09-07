@@ -1,6 +1,8 @@
 ﻿# TesteTargetSistemas
+
 > Questão 1:
 ### O valor da variável SOMA será 77
+
 > Questão 2:
 ### a) 1, 3, 5, 7, 9
 ### b) 2, 4, 8, 16, 32, 64, 128
@@ -8,6 +10,10 @@
 ### d) 4, 16, 36, 64, 100
 ### e) 1, 1, 2, 3, 5, 8, 13
 ### f) 2,10, 12, 16, 17, 18, 19, 200
+
+> Questão 4:
+### Link para visualizar o Diagrama ER: https://lucid.app/lucidchart/9acb3171-3ef7-44cd-bbd9-c6d4b9bea7eb/edit?invitationId=inv_e3c8f68f-7c46-46d7-a05f-3a9ab573f121&page=0_0#
+
 > Questão 5:
 ### ponto de referência é Ribeirão Preto
 ### a equação horária do carro é: x1 = v1.t
