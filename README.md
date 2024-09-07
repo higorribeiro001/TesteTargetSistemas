@@ -1,7 +1,7 @@
 ﻿# TesteTargetSistemas
 > Questão 1:
 ### O valor da variável SOMA será 77
-> Questão 2::
+> Questão 2:
 ### a) 1, 3, 5, 7, 9
 ### b) 2, 4, 8, 16, 32, 64, 128
 ### c) 0, 1, 4, 9, 16, 25, 36, 49
