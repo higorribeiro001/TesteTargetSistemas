@@ -8,7 +8,7 @@
 ### d) 4, 16, 36, 64, 100
 ### e) 1, 1, 2, 3, 5, 8, 13
 ### f) 2,10, 12, 16, 17, 18, 19, 200
-> Questão 4:
+> Questão 5:
 ### ponto de referência é Ribeirão Preto
 ### a equação horária do carro é: x1 = v1.t
 ### a do caminhão é: x2 = 125km - v2.t
